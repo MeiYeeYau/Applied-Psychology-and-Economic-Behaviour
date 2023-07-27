@@ -12,7 +12,7 @@
 
 - 📝 [Research proposal: Using defaults to encourage purchasing of sustainable and more costly clothing][]
 
-- 📫 [Game Theory][]
+- 📫 [Game Theory][https://github.com/MeiYeeYau/Applied-Psychology-and-Economic-Behaviour/blob/main/05662_XX50222_exam.pdf]
 
 
 ### Dissertations
