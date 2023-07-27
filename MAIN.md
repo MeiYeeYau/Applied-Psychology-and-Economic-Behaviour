@@ -6,14 +6,14 @@
 
 </a>
 
-- 📝 Literature Review - [How to improve success in crowdfunding: An investigation into choice overload and prosocial framing.](https://github.com/MeiYeeYau/Applied-Psychology-and-Economic-Behaviour/blob/main/05662_XX50221_Lit%20Review.pdf)
+- Literature Review - [How to improve success in crowdfunding: An investigation into choice overload and prosocial framing.](https://github.com/MeiYeeYau/Applied-Psychology-and-Economic-Behaviour/blob/main/05662_XX50221_Lit%20Review.pdf)
 
-- 📝 Statistical and mathematical modelling - [Predicting Academic Performance](https://github.com/MeiYeeYau/Applied-Psychology-and-Economic-Behaviour/blob/main/05662_XX5022_final_assessment.pdf)  
-  - 📝 Code in R: [Part A](https://github.com/MeiYeeYau/Applied-Psychology-and-Economic-Behaviour/blob/main/05662_Part_A_code%20.R) and [Part B](https://github.com/MeiYeeYau/Applied-Psychology-and-Economic-Behaviour/blob/main/05662_Part_B_code.R)
+- Statistical and mathematical modelling - [Predicting Academic Performance](https://github.com/MeiYeeYau/Applied-Psychology-and-Economic-Behaviour/blob/main/05662_XX5022_final_assessment.pdf)  
+  - Code in R: [Part A](https://github.com/MeiYeeYau/Applied-Psychology-and-Economic-Behaviour/blob/main/05662_Part_A_code%20.R) and [Part B](https://github.com/MeiYeeYau/Applied-Psychology-and-Economic-Behaviour/blob/main/05662_Part_B_code.R)
     
-- 📝 Research proposal: [Using defaults to encourage purchasing of sustainable and more costly clothing](https://github.com/MeiYeeYau/Applied-Psychology-and-Economic-Behaviour/blob/main/05662_XX50221_Research_Proposal.pdf)
+- Research proposal: [Using defaults to encourage purchasing of sustainable and more costly clothing](https://github.com/MeiYeeYau/Applied-Psychology-and-Economic-Behaviour/blob/main/05662_XX50221_Research_Proposal.pdf)
 
-- 📝 Game Theory [Assignment](https://github.com/MeiYeeYau/Applied-Psychology-and-Economic-Behaviour/blob/main/05662_XX50222_exam.pdf)
+- Game Theory [Assignment](https://github.com/MeiYeeYau/Applied-Psychology-and-Economic-Behaviour/blob/main/05662_XX50222_exam.pdf)
 
 
 ### Dissertations
