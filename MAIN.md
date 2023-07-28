@@ -1,6 +1,6 @@
 # Mei Yee Yau 
 
-<h1 align="center">Applied Psychology and Ecnonomic Behaviour MSc
+<h1 align="center">Applied Psychology and Economic Behaviour MSc
 
 <h3 align="center">Example Work </h3>
 
